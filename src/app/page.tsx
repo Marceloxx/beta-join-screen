@@ -1,4 +1,6 @@
+
 // Użycie klienta oznacza, że ten komponent działa po stronie klienta.
+// eslint-disable-next-line react/no-unescaped-entities
 "use client";
 
 import React from "react";
