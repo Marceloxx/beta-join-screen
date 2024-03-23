@@ -25,9 +25,10 @@ export default function Page() {
         
         <div className=" text-center font-extralight text-base md:text-2xl dark:text-neutral-200 py-4  ">
         
-        Discover the future of knowledge management with LearnU AI. Sign up now to be the first to test our platform and influence the development of AI innovation. How to sign up? Enter your email address in the box below and join the exclusive group of testers. Don't wait, spots are limited! 
-      
+        Discover the future of knowledge management with LearnU AI. Sign up now to be the first to test our platform and influence the development of AI innovation. How to sign up? Enter your email address in the box below and join the exclusive group of testers. Don&apos;t wait, spots are limited!
+              
         </div>
+        
         </div>
         <a href="https://tally.so/r/3N6JvN" target="_blank" rel="noopener noreferrer">
   <button className="bg-black dark:bg-white rounded-full w-fit text-white dark:text-black px-4 py-2">
